@@ -9,7 +9,7 @@
 - 🎓 I am a **college student & a complete fresher**, excited to kickstart my journey with **internships & projects**.  
 - 🌱 Currently exploring **Deep Learning**, after completing **Machine Learning**.  
 - 💡 I am curious, fast learner, and love to explore **new technologies**.  
-- 🚀 Future goal: To work on **AI, Data Science, Data Analysis and Full-Stack Development** projects.  
+- 🚀 Future goal: To work on **AI , Data Science , Data Analysis ,ML and etc... ** Projects.  
 
 ---
 
@@ -28,7 +28,7 @@
 - Python | Java | JavaScript  
 
 #### 📊 Data Science & Visualization
-- Pandas | Matplotlib | Seaborn | NumPy | Plotly | MLXtend |SciKit-Learn
+- Pandas | Matplotlib | Seaborn | NumPy | Plotly | MLXtend |SciKit-Learn | Optuna | etc...
 - Data Visualization and Exploratory Data Analysis  
  
 #### 🤖 AI & Machine Learning
