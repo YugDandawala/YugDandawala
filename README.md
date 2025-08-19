@@ -57,7 +57,7 @@
 
 ### 📬 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/Yug Dandawala/" target="_blank">
+  <a href="https://www.linkedin.com/in/Yug Dandawala" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:yugdandawala3@gmail.com">
