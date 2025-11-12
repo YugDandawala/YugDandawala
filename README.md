@@ -25,8 +25,8 @@ My skills span across Full Stack Development and the rapidly evolving field of D
 | Category | Skills |
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+), **React.js**, Bootstrap, Responsive Web Design |
-| **Backend** | **Node.js**, Express.js, **Django Framework** |
-| **Databases** | SQL, **MongoDB** |
+| **Backend** | **Node.js**, Express.js, **Django Framework** , FastAPI|
+| **Databases** | SQL, **MongoDB**,PostGreSQL |
 
 ### 📊 Data Science & AI/ML
 | Category | Skills |
@@ -51,9 +51,9 @@ I am always looking to expand my knowledge and apply new skills to impactful pro
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**[Your GitHub Username Here]**&show_icons=true&theme=buefy&count_private=true" alt="Yug's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=**[YugDandawala]**&show_icons=true&theme=buefy&count_private=true" alt="Yug's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**[Your GitHub Username Here]**&layout=compact&theme=buefy" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**[YugDandawala]**&layout=compact&theme=buefy" alt="Top Languages"/>
 </p>
 
 ---
