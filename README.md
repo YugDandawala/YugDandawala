@@ -51,19 +51,9 @@ I am always looking to expand my knowledge and apply new skills to impactful pro
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=**[Your GitHub Username Here]**&show_icons=true&theme=buefy&hide_border=false&count_private=true" alt="Yug's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**[Your GitHub Username Here]**&layout=compact&theme=buefy&hide_border=false" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=**[Your GitHub Username Here]**&theme=buefy&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=**[Your GitHub Username Here]**&theme=buefy" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YugDandawala&show_icons=true&theme=buefy&count_private=true" alt="Yug's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugDandawala&layout=compact&theme=buefy" alt="Top Languages"/>
 </p>
 
 ---
