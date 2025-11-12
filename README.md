@@ -48,12 +48,11 @@ I am always looking to expand my knowledge and apply new skills to impactful pro
 
 ---
 
-## 📈 GitHub Stats
+#### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=**YugDandawala**&show_icons=true&theme=buefy&count_private=true" alt="Yug's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**YugDandawala**&layout=compact&theme=buefy" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YugDandawala&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugDandawala&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
