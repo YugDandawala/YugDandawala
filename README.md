@@ -42,10 +42,10 @@ My skills span across Full Stack Development and the rapidly evolving field of D
 
 I am always looking to expand my knowledge and apply new skills to impactful projects.
 
-- **Current Focus:** Deep Learning, Neural Network Architectures, and Full Stack Development best practices.
-- **Future Interests:** Exploring advanced topics in **Computer Vision**, **Natural Language Processing (NLP)**, and building robust, data-driven applications.
-- **Collaboration:** Open to collaborating on projects related to Data Science, Machine Learning, and Full Stack Development.
-
+- **Current Focus:** Deep Learning, Neural Network Architectures, some Python Frameworks and Gen AI.
+- **Future Interests:** Exploring advanced topics in **Computer Vision**, **Natural Language Processing (NLP)**, **Generative AI**, **Agentic AI** and building robust, data-driven applications.
+- **Collaboration:** Open to collaborating on projects related to Data Science, AIML and Software Development.
+- 
 ---
 
 ## 📈 GitHub Statistics
