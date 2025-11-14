@@ -45,7 +45,7 @@ I am always looking to expand my knowledge and apply new skills to impactful pro
 - **Current Focus:** Deep Learning, Neural Network Architectures, some Python Frameworks and Gen AI.
 - **Future Interests:** Exploring advanced topics in **Computer Vision**, **Natural Language Processing (NLP)**, **Generative AI**, **Agentic AI** and building robust, data-driven applications.
 - **Collaboration:** Open to collaborating on projects related to Data Science, AIML and Software Development.
-- 
+ 
 ---
 
 ## 📈 GitHub Statistics
