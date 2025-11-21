@@ -13,7 +13,7 @@
 - 🎓 A curious and driven **college student** committed to continuous learning and technical growth.
 - 🌱 Actively exploring the field of **Deep Learning**, building upon a strong foundation in **Machine Learning**.
 - 💡 Passionate about exploring **new technologies** and applying critical thinking to solve complex problems.
-- 🎯 My long-term goal is to contribute to innovative projects in **AI, Data Science, Machine Learning, and Data Analysis**.
+- 🎯 My long-term goal is to contribute to innovative projects in **AI, Data Science, Machine Learning, and Deep Learning**.
 
 ---
 
