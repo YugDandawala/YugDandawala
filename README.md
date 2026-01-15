@@ -60,5 +60,5 @@ I am always looking to expand my knowledge and apply new skills to impactful pro
 
 <h3 align="center">🤝 Let's Connect!</h3>
 <p align="center">
-  Feel free to reach out and connect on LinkedIn for professional inquiries or collaborations!
+  Feel free to reach out and connect on LinkedIn
 </p>
