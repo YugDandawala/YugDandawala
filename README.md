@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yug Dandawala</h1>
-<h3 align="center">🚀 Trainee Software Engineer Intern | Aspiring AI & ML Enthusiast</h3>
+<h3 align="center">🚀 Trainee Software Engineer Intern | Aspiring AI & ML Enthusiast | Gen AI | Agentic AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yug-dandawala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -51,7 +51,7 @@ I am always looking to expand my knowledge and apply new skills to impactful pro
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YugDandawala&show_icons=true&theme=buefy&count_private=true" alt="Yug's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YugDandawala&show_icons=true&theme=bueft&count_private=true" alt="My GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugDandawala&layout=compact&theme=buefy" alt="Top Languages"/>
 </p>
