@@ -33,8 +33,9 @@ My skills span across Full Stack Development and the rapidly evolving field of D
 | :--- | :--- |
 | **Languages** | **Python**, **Java**, **JavaScript** |
 | **ML/DL Libraries** | **Pandas, NumPy**, SciKit-Learn, Matplotlib, Seaborn, Plotly, MLXtend, Optuna , Tensorflow |
-| **AI/ML Concepts** | Completed **ML Basics** (Supervised/Unsupervised Learning, all core Algorithms). Currently learning **Deep Learning** (Neural Networks, CNNs, RNNs, etc.). |
+| **AI/ML Concepts** | Completed ** ML ** (Supervised/Unsupervised Learning, all core Algorithms). Currently learning **Deep Learning** (Neural Networks, CNNs, RNNs, etc.). |
 | **Visualization** | Data Visualization and Exploratory Data Analysis (EDA) |
+** Gen-AI ** | Langchain | RAG system
 
 ---
 
