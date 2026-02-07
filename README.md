@@ -447,7 +447,7 @@ Production Apps
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YugDandawala&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herok.com/?user=YugDandawala&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
 </div>
 
@@ -593,29 +593,24 @@ Problem Solver
 <tr>
 <td width="20%" align="center">
 
-**2022**  
-🌱 Started  
-
-Web Development  
-HTML/CSS/JS  
-Basic Programming  
-
-</td>
-<td width="20%" align="center">
-
 **2023**  
-📈 Growing  
-
-Full Stack  
+🌱 Started  
+Basic Programming (Java)
+Databases
+Data Structures
+Web Development  
+HTML/CSS/JS
 React & Node  
-Python Basics  
-
+Programming (Python)
+Full Stack  
 </td>
 <td width="20%" align="center">
 
 **2024**  
 🚀 Advancing  
 
+Data Manipulation
+Data Analysis (EDA)
 Machine Learning  
 Deep Learning  
 Data Science  
@@ -636,8 +631,9 @@ Production ML
 **Future**  
 🌟 Innovating  
 
-AI Research  
+Cloud Deployement
 MLOps Expert  
+AI Research  
 AI Architect  
 
 </td>
@@ -679,7 +675,6 @@ AI Architect
 <tr><td>🤝</td><td><b>Collaboration</b></td><td>Team player mindset</td></tr>
 <tr><td>🔍</td><td><b>Attention to Detail</b></td><td>Quality code standards</td></tr>
 <tr><td>💪</td><td><b>Resilience</b></td><td>Debug & overcome</td></tr>
-<tr><td>Clear communication</td></tr>
 <tr><td>🌱</td><td><b>Growth Mindset</b></td><td>Continuous improvement</td></tr>
 <tr><td>⚡</td><td><b>Initiative</b></td><td>Self-driven projects</td></tr>
 <tr><td>🎨</td><td><b>Creativity</b></td><td>Innovative solutions</td></tr>
