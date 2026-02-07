@@ -440,8 +440,22 @@ Production Apps
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YugDandawala&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugDandawala&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+<a href="https://github.com/YugDandawala">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YugDandawala&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+</a>
+<a href="https://github.com/YugDandawala">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugDandawala&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+<a href="https://github.com/YugDandawala">
+  <img src="https://streak-stats.demolab.com/?user=YugDandawala&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</a>
 
 </div>
 
