@@ -1,179 +1,356 @@
 <div align="center">
 
-# 👋 Hi, I'm Yug Dandawala
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yug%20Dandawala&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-### 🚀 Software Engineer Intern | AI/ML Engineer | Gen AI Specialist
+### 🚀 Software Engineer Intern | AI/ML Engineer | Generative AI Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-dandawala)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YugDandawala)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-dandawala)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YugDandawala)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YugDandawala&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=YugDandawala&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 💼 Professional Profile
-```json
-{
-  "role": "Trainee Software Engineer",
-  "company": "Netizens Technologies",
-  "status": "Intern",
-  "education": "College Student",
-  "mindset": "Lifelong Learner"
-}
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</td>
-<td width="50%" valign="top">
+### 💼 Professional Journey
+**Current Role:** Trainee Software Engineer Intern  
+**Company:** Netizens Technologies  
+**Status:** 🔥 Actively Building & Learning
 
-### 🎓 Academic Focus
-```json
-{
-  "primary": [
-    "Deep Learning",
-    "Generative AI",
-    "Agentic AI"
-  ],
-  "secondary": [
-    "Full Stack Dev",
-    "MLOps"
-  ]
-}
-```
+### 🎓 Education & Growth
+**Level:** College Student  
+**Philosophy:** Lifelong Learner  
+**Approach:** Hands-on, Project-based Learning
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🎯 Career Goals
-```json
-{
-  "short_term": [
-    "Build Production AI Apps",
-    "Master LLM Engineering",
-    "Contribute to Open Source"
-  ],
-  "long_term": "Innovate in AI/ML Space"
-}
-```
+### 🎯 Focus Areas
 
-</td>
-<td width="50%" valign="top">
+<table>
+<tr><td>🧠</td><td><b>Deep Learning</b></td><td>Neural Networks, CNNs, RNNs</td></tr>
+<tr><td>🤖</td><td><b>Generative AI</b></td><td>LLMs, RAG Systems, Fine-tuning</td></tr>
+<tr><td>⚡</td><td><b>Agentic AI</b></td><td>Multi-Agent Systems, MCP</td></tr>
+<tr><td>🌐</td><td><b>Full Stack</b></td><td>MERN, Django, FastAPI</td></tr>
+<tr><td>📊</td><td><b>Data Science</b></td><td>ML, EDA, Visualization</td></tr>
+</table>
 
-### 💡 Interests & Passions
-```json
-{
-  "technical": [
-    "Machine Learning",
-    "AI Agents",
-    "System Design"
-  ],
-  "personal": [
-    "Problem Solving",
-    "Continuous Learning",
-    "Coffee ☕"
-  ]
-}
-```
+### 🌟 Mission Statement
+> **Building innovative AI-powered solutions that solve real-world problems and create meaningful impact**
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-**🌟 Mission:** *Building innovative AI-powered solutions that make a real-world impact*
+## 🚀 Current Activities
 
-</div>
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📚 Learning
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**Advanced Deep Learning**  
+Neural Network Architectures  
+🔹 Transformers & Attention  
+🔹 GANs & Autoencoders
+
+**LLM Engineering**  
+Fine-tuning & Optimization  
+🔹 Prompt Engineering  
+🔹 RLHF & DPO
+
+**Production AI**  
+Scalable Systems  
+🔹 AI Agent Development  
+🔹 RAG System Scaling
+
+<br>
+
+**Status:** 🔥 **Active Learning**
+
+</td>
+<td width="33%" align="center">
+
+### 🛠️ Building
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+**Multi-Agent Systems**  
+LangGraph Workflows  
+🔹 Agent Collaboration  
+🔹 Tool Integration
+
+**Intelligent Chatbots**  
+Memory-Enabled Bots  
+🔹 Context Management  
+🔹 Conversation Flow
+
+**AI-Powered Apps**  
+Full Stack Integration  
+🔹 React + FastAPI  
+🔹 Real-time Features
+
+<br>
+
+**Status:** ⚡ **In Progress**
+
+</td>
+<td width="33%" align="center">
+
+### 🔍 Exploring
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+**Computer Vision**  
+Image Processing  
+🔹 Object Detection  
+🔹 Image Segmentation
+
+**Advanced NLP**  
+Language Understanding  
+🔹 Sentiment Analysis  
+🔹 Text Generation
+
+**MLOps & Cloud**  
+Production Deployment  
+🔹 CI/CD Pipelines  
+🔹 Model Monitoring
+
+<br>
+
+**Status:** 🌱 **Researching**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technology Arsenal
 
-### 🤖 AI/ML & Data Science
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-**Core Competencies:**
-- **Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering, Model Optimization
-- **Deep Learning:** Neural Networks, CNNs, RNNs, Transfer Learning
-- **Model Tuning:** Optuna, Hyperparameter Optimization, Cross-validation
-- **Data Analysis:** EDA, Statistical Analysis, Data Visualization
-
-### 🧠 Generative AI & LLMs
+### 🤖 Artificial Intelligence & Machine Learning
 
 <div align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-Intermediate-0f4c81?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
-**Expertise:**
-- **LangChain Framework** - Building LLM-powered applications
-- **RAG Systems** - Retrieval Augmented Generation pipelines
-- **Vector Databases** - Efficient semantic search and embeddings
-- **LangGraph** - Complex agent workflows and state management
-- **MCP (Model Context Protocol)** - Standardized AI integration
-- **A2A Protocol** - Agent-to-Agent communication
-- **Tool Calling & Function Calling** - Dynamic LLM interactions
-- **Multi-Agent Systems** - Collaborative AI architectures
+<table>
+<tr>
+<td width="25%" align="center">
+
+**🎯 Machine Learning**
+
+Supervised Learning  
+Unsupervised Learning  
+Ensemble Methods  
+Feature Engineering  
+Model Optimization  
+Cross-Validation  
+
+</td>
+<td width="25%" align="center">
+
+**🧠 Deep Learning**
+
+Neural Networks  
+CNNs & RNNs  
+Transfer Learning  
+Model Architecture  
+Hyperparameter Tuning  
+Regularization  
+
+</td>
+<td width="25%" align="center">
+
+**📊 Data Science**
+
+Exploratory Analysis  
+Statistical Modeling  
+Data Visualization  
+Data Preprocessing  
+Pattern Recognition  
+Predictive Analytics  
+
+</td>
+<td width="25%" align="center">
+
+**🔧 ML Tools**
+
+Matplotlib  
+Seaborn  
+Plotly  
+MLXtend  
+Optuna  
+Jupyter  
+
+</td>
+</tr>
+</table>
+
+### 🧠 Generative AI & Large Language Models
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/🦜_LangChain-Advanced-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-Intermediate-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Advanced-FFD21E?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=for-the-badge)
+
+</div>
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+**🔗 LangChain**
+
+Chains & Agents  
+Prompt Templates  
+Memory Management  
+Output Parsers  
+Callbacks  
+
+</td>
+<td width="20%" align="center">
+
+**🕸️ LangGraph**
+
+State Graphs  
+Multi-Agent Flows  
+Conditional Edges  
+Checkpointing  
+Persistence  
+
+</td>
+<td width="20%" align="center">
+
+**📚 RAG Systems**
+
+Vector Databases  
+Embeddings  
+Semantic Search  
+Document Loaders  
+Retrieval Chains  
+
+</td>
+<td width="20%" align="center">
+
+**🛠️ Agent Tools**
+
+Function Calling  
+Tool Integration  
+MCP Protocol  
+A2A Communication  
+Dynamic Tools  
+
+</td>
+<td width="20%" align="center">
+
+**🗄️ Vector DBs**
+
+Pinecone  
+ChromaDB  
+FAISS  
+Weaviate  
+Qdrant  
+
+</td>
+</tr>
+</table>
 
 ### 🌐 Full Stack Development
 
 <div align="center">
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### Frontend Technologies
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=python&logoColor=white)
+#### Backend Technologies
+![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Advanced-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Intermediate-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-Intermediate-0089FF?style=for-the-badge&logo=python&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-Basic-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white)
+#### Database & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Basic-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
-**Additional Skills:**
-- **ERP Systems:** ERPNext, Frappe Framework
-- **API Development:** RESTful APIs, GraphQL
-- **Version Control:** Git, GitHub
-- **Responsive Design:** Mobile-first approach, Cross-browser compatibility
+<table>
+<tr>
+<td width="33%" align="center">
 
-### 🛠️ Languages & Tools
+**⚛️ Frontend Skills**
+
+Component Design  
+State Management  
+Responsive Design  
+API Integration  
+Modern CSS  
+Performance Optimization  
+
+</td>
+<td width="33%" align="center">
+
+**⚙️ Backend Skills**
+
+RESTful APIs  
+Authentication  
+Database Design  
+Server Architecture  
+API Documentation  
+Error Handling  
+
+</td>
+<td width="33%" align="center">
+
+**🏢 ERP Systems**
+
+Frappe Framework  
+ERPNext Modules  
+Custom Apps  
+Workflow Design  
+DocType Creation  
+Report Building  
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Development Tools & Languages
 
 <div align="center">
 
@@ -181,78 +358,85 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🎯 2025 Development Roadmap
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### 📚 Currently Learning
-```json
-{
-  "focus_areas": [
-    "Advanced Deep Learning",
-    "LLM Fine-tuning",
-    "Prompt Engineering",
-    "Production AI Agents",
-    "Scaling RAG Systems"
-  ],
-  "status": "🔥 Active"
-}
-```
+### Q1 2025
+**🧠 Deep Learning Mastery**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+
+Advanced Neural Networks  
+CNN & RNN Architectures  
+Transformer Models  
+PyTorch Deep Dive  
+
+**Goal:** Build 3 DL Projects
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### 🛠️ Building
-```json
-{
-  "projects": [
-    "Multi-agent Systems",
-    "Memory-enabled Chatbots",
-    "AI-integrated Full Stack",
-    "Data Science Portfolio"
-  ],
-  "status": "⚡ In Progress"
-}
-```
+### Q2 2025
+**🤖 AI Agent Development**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80">
+
+LangGraph Mastery  
+Multi-Agent Systems  
+MCP Integration  
+Tool Orchestration  
+
+**Goal:** Production Agent App
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="25%">
 
-### 🔍 Exploring
-```json
-{
-  "interests": [
-    "Computer Vision",
-    "NLP Applications",
-    "MLOps Pipelines",
-    "Cloud AI Solutions"
-  ],
-  "status": "🌱 Growing"
-}
-```
+### Q3 2025
+**🚀 MLOps & Deployment**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+
+CI/CD Pipelines  
+Model Monitoring  
+Docker & Kubernetes  
+Cloud Deployment  
+
+**Goal:** Deploy ML Pipeline
+
+</td>
+<td align="center" width="25%">
+
+### Q4 2025
+**🌐 Scale & Optimize**
+
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
+
+System Architecture  
+Performance Tuning  
+Microservices  
+Production Apps  
+
+**Goal:** Full-Scale Platform
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-### 🎯 2025 Roadmap
-
-| Q1 | Q2 | Q3 | Q4 |
-|:---:|:---:|:---:|:---:|
-| 🧠 Master Deep Learning | 🤖 Build AI Agents | 🚀 Deploy ML Models | 🌐 Scale Production Apps |
-| Advanced Neural Networks | LangGraph + MCP | MLOps & DevOps | Cloud Architecture |
 
 </div>
 
@@ -261,99 +445,409 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YugDandawala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugDandawala&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YugDandawala&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugDandawala&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YugDandawala&theme=tokyonight)
-  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YugDandawala&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=YugDandawala&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-  
-</div>
-
----
-
-## 💡 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🤖 **AI Agent System** | Multi-agent system with LangGraph and tool calling | LangChain, Python, FastAPI |
-| 📚 **RAG Chatbot** | Document Q&A with semantic search | LangChain, Pinecone, OpenAI |
-| 📊 **ML Pipeline** | End-to-end ML workflow with deployment | Scikit-learn, Optuna, Streamlit |
-| 🌐 **Full Stack App** | Modern web app with AI features | React, Node.js, MongoDB |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YugDandawala&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF" width="95%"/>
 
 </div>
 
 ---
 
-## 🎓 Learning Journey
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Full Stack Dev] --> B[Machine Learning]
-    B --> C[Deep Learning]
-    C --> D[Gen AI & LLMs]
-    D --> E[Agentic AI]
-    E --> F[Production AI Systems]
-    
-    style A fill:#61dafb
-    style B fill:#ff6b6b
-    style C fill:#4ecdc4
-    style D fill:#95e1d3
-    style E fill:#f38181
-    style F fill:#aa96da
-```
+<img src="https://github-profile-trophy.vercel.app/?username=YugDandawala&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="90%"/>
 
 </div>
 
-**Completed:** Full Stack Development, Machine Learning Fundamentals  
-**Current:** Deep Learning, Generative AI, Agent Development  
-**Next:** Advanced NLP, Computer Vision, MLOps  
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**🎓 Education**  
+Continuous Learning  
+Multiple Certifications  
+Project-Based Growth  
+
+</td>
+<td align="center" width="25%">
+
+**💼 Professional**  
+Software Intern  
+Real-World Projects  
+Team Collaboration  
+
+</td>
+<td align="center" width="25%">
+
+**🚀 Projects**  
+AI Applications  
+Full Stack Apps  
+Open Source  
+
+</td>
+<td align="center" width="25%">
+
+**🌟 Skills**  
+AI/ML Expert  
+Full Stack Dev  
+Problem Solver  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect!
+## 🎨 Featured Projects
 
 <div align="center">
 
-I'm always open to interesting conversations and collaboration opportunities!
+<table>
+<tr>
+<td width="50%">
 
-**Interested in:** AI/ML Projects • Open Source Contributions • Tech Discussions • Mentorship
+### 🤖 AI Multi-Agent System
+**Advanced agent orchestration with LangGraph**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-dandawala)
-[![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+**Tech Stack:**  
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 💬 Ask me about
-**Python** • **Machine Learning** • **LangChain** • **React** • **Gen AI** • **RAG Systems** • **Frappe/ERPNext**
+**Features:**
+- 🔹 Multi-agent collaboration
+- 🔹 Dynamic tool calling
+- 🔹 State management
+- 🔹 Real-time streaming
+
+**Status:** 🟢 Active Development
+
+</td>
+<td width="50%">
+
+### 📚 Intelligent RAG Chatbot
+**Document Q&A with semantic search**
+
+**Tech Stack:**  
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Features:**
+- 🔹 Vector embeddings
+- 🔹 Contextual retrieval
+- 🔹 Source attribution
+- 🔹 Conversation memory
+
+**Status:** 🟢 Production Ready
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 ML Pipeline & Deployment
+**End-to-end ML workflow with AutoML**
+
+**Tech Stack:**  
+![scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-0f4c81?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Features:**
+- 🔹 Automated training
+- 🔹 Hyperparameter tuning
+- 🔹 Model evaluation
+- 🔹 Interactive dashboard
+
+**Status:** 🟡 Beta Testing
+
+</td>
+<td width="50%">
+
+### 🌐 Full Stack AI Platform
+**Modern web app with AI integration**
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Features:**
+- 🔹 AI-powered features
+- 🔹 Real-time updates
+- 🔹 User authentication
+- 🔹 Responsive design
+
+**Status:** 🔵 Planning Phase
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+## 📚 Learning Journey
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+### Evolution of Skills
+
+</div>
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+**2022**  
+🌱 Started  
+
+Web Development  
+HTML/CSS/JS  
+Basic Programming  
+
+</td>
+<td width="20%" align="center">
+
+**2023**  
+📈 Growing  
+
+Full Stack  
+React & Node  
+Python Basics  
+
+</td>
+<td width="20%" align="center">
+
+**2024**  
+🚀 Advancing  
+
+Machine Learning  
+Deep Learning  
+Data Science  
+
+</td>
+<td width="20%" align="center">
+
+**2025**  
+🔥 Mastering  
+
+Gen AI & LLMs  
+Agentic AI  
+Production ML  
+
+</td>
+<td width="20%" align="center">
+
+**Future**  
+🌟 Innovating  
+
+AI Research  
+MLOps Expert  
+AI Architect  
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 Skill Progression
+
+![](https://img.shields.io/badge/Web_Development-█████████░-90%25-4CAF50?style=for-the-badge)  
+![](https://img.shields.io/badge/Machine_Learning-████████░░-80%25-2196F3?style=for-the-badge)  
+![](https://img.shields.io/badge/Deep_Learning-███████░░░-70%25-9C27B0?style=for-the-badge)  
+![](https://img.shields.io/badge/Generative_AI-████████░░-80%25-FF5722?style=for-the-badge)  
+![](https://img.shields.io/badge/Agentic_AI-██████░░░░-60%25-FFC107?style=for-the-badge)  
+
+</div>
+
+---
+
+## 💡 Areas of Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Technical Proficiency
+
+<table>
+<tr><td>⭐⭐⭐⭐⭐</td><td><b>Python Programming</b></td></tr>
+<tr><td>⭐⭐⭐⭐⭐</td><td><b>Machine Learning</b></td></tr>
+<tr><td>⭐⭐⭐⭐⭐</td><td><b>Data Analysis</b></td></tr>
+<tr><td>⭐⭐⭐⭐⭐</td><td><b>Web Development</b></td></tr>
+<tr><td>⭐⭐⭐⭐☆</td><td><b>Deep Learning</b></td></tr>
+<tr><td>⭐⭐⭐⭐☆</td><td><b>LangChain & RAG</b></td></tr>
+<tr><td>⭐⭐⭐⭐☆</td><td><b>React.js</b></td></tr>
+<tr><td>⭐⭐⭐⭐☆</td><td><b>FastAPI & Django</b></td></tr>
+<tr><td>⭐⭐⭐☆☆</td><td><b>LangGraph & Agents</b></td></tr>
+<tr><td>⭐⭐⭐☆☆</td><td><b>Frappe/ERPNext</b></td></tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Soft Skills & Attributes
+
+<table>
+<tr><td>💡</td><td><b>Problem Solving</b></td><td>Critical thinking approach</td></tr>
+<tr><td>📚</td><td><b>Quick Learner</b></td><td>Adapt to new tech fast</td></tr>
+<tr><td>🎯</td><td><b>Goal Oriented</b></td><td>Project completion focus</td></tr>
+<tr><td>🤝</td><td><b>Collaboration</b></td><td>Team player mindset</td></tr>
+<tr><td>🔍</td><td><b>Attention to Detail</b></td><td>Quality code standards</td></tr>
+<tr><td>💪</td><td><b>Resilience</b></td><td>Debug & overcome</td></tr>
+<tr><td>📖</td><td><b>Documentation</b></td><td>Clear communication</td></tr>
+<tr><td>🌱</td><td><b>Growth Mindset</b></td><td>Continuous improvement</td></tr>
+<tr><td>⚡</td><td><b>Initiative</b></td><td>Self-driven projects</td></tr>
+<tr><td>🎨</td><td><b>Creativity</b></td><td>Innovative solutions</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518289e9-4849-4402-ab02-c2f8e9d5c02f.gif" width="200">
+
+### 💬 I'm Always Open To
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**🤝 Collaboration**
+
+AI/ML Projects  
+Open Source  
+Research Papers  
+Hackathons  
+
+</td>
+<td align="center" width="25%">
+
+**💡 Discussion**
+
+Tech Trends  
+Best Practices  
+Architecture  
+Problem Solving  
+
+</td>
+<td align="center" width="25%">
+
+**🎓 Learning**
+
+New Technologies  
+Industry Insights  
+Code Reviews  
+Knowledge Sharing  
+
+</td>
+<td align="center" width="25%">
+
+**🌟 Opportunities**
+
+Internships  
+Projects  
+Freelance  
+Full-time Roles  
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📫 Reach Out To Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-dandawala)
+[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YugDandawala)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
 ---
 
 <div align="center">
-  
-  **⭐️ From [YugDandawala](https://github.com/YugDandawala)**
-  
-  *"Building the future, one line of code at a time"*
-  
+
+### 🌟 Ask Me About
+
+<table>
+<tr>
+<td align="center">🐍 <b>Python</b></td>
+<td align="center">🤖 <b>Machine Learning</b></td>
+<td align="center">🧠 <b>Deep Learning</b></td>
+<td align="center">⚛️ <b>React</b></td>
+</tr>
+<tr>
+<td align="center">🦜 <b>LangChain</b></td>
+<td align="center">📚 <b>RAG Systems</b></td>
+<td align="center">🕸️ <b>AI Agents</b></td>
+<td align="center">🏢 <b>Frappe/ERPNext</b></td>
+</tr>
+<tr>
+<td align="center">⚡ <b>FastAPI</b></td>
+<td align="center">🍃 <b>MongoDB</b></td>
+<td align="center">📊 <b>Data Science</b></td>
+<td align="center">🌐 <b>Full Stack</b></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+
+### 💭 Quote That Drives Me
+
+**"The best way to predict the future is to invent it."** - Alan Kay
+
+<br>
+
+### 📈 Profile Stats
+
+![](https://komarev.com/ghpvc/?username=YugDandawala&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![](https://img.shields.io/github/followers/YugDandawala?label=Followers&style=for-the-badge&color=blue)
+![](https://img.shields.io/github/stars/YugDandawala?label=Total%20Stars&style=for-the-badge&color=yellow)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
+
+**⭐️ From [YugDandawala](https://github.com/YugDandawala) | Building the future, one commit at a time 🚀**
+
 </div>
