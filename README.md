@@ -644,18 +644,6 @@ AI Architect
 </tr>
 </table>
 
-<div align="center">
-
-### 🎯 Skill Progression
-
-![](https://img.shields.io/badge/Web_Development-█████████░-90%25-4CAF50?style=for-the-badge)  
-![](https://img.shields.io/badge/Machine_Learning-████████░░-80%25-2196F3?style=for-the-badge)  
-![](https://img.shields.io/badge/Deep_Learning-███████░░░-70%25-9C27B0?style=for-the-badge)  
-![](https://img.shields.io/badge/Generative_AI-████████░░-80%25-FF5722?style=for-the-badge)  
-![](https://img.shields.io/badge/Agentic_AI-██████░░░░-60%25-FFC107?style=for-the-badge)  
-
-</div>
-
 ---
 
 ## 💡 Areas of Expertise
@@ -668,7 +656,7 @@ AI Architect
 
 <table>
 <tr><td>⭐⭐⭐⭐⭐</td><td><b>Python Programming</b></td></tr>
-<tr><td>⭐⭐⭐⭐⭐</td><td><b>Machine Learning</b></td></tr>
+<tr><td>⭐⭐⭐⭐☆</td><td><b>Machine Learning</b></td></tr>
 <tr><td>⭐⭐⭐⭐⭐</td><td><b>Data Analysis</b></td></tr>
 <tr><td>⭐⭐⭐⭐⭐</td><td><b>Web Development</b></td></tr>
 <tr><td>⭐⭐⭐⭐☆</td><td><b>Deep Learning</b></td></tr>
@@ -691,7 +679,7 @@ AI Architect
 <tr><td>🤝</td><td><b>Collaboration</b></td><td>Team player mindset</td></tr>
 <tr><td>🔍</td><td><b>Attention to Detail</b></td><td>Quality code standards</td></tr>
 <tr><td>💪</td><td><b>Resilience</b></td><td>Debug & overcome</td></tr>
-<tr><td>📖</td><td><b>Documentation</b></td><td>Clear communication</td></tr>
+<tr><td>Clear communication</td></tr>
 <tr><td>🌱</td><td><b>Growth Mindset</b></td><td>Continuous improvement</td></tr>
 <tr><td>⚡</td><td><b>Initiative</b></td><td>Self-driven projects</td></tr>
 <tr><td>🎨</td><td><b>Creativity</b></td><td>Innovative solutions</td></tr>
@@ -722,7 +710,6 @@ AI Architect
 AI/ML Projects  
 Open Source  
 Research Papers  
-Hackathons  
 
 </td>
 <td align="center" width="25%">
@@ -763,9 +750,8 @@ Full-time Roles
 ### 📫 Reach Out To Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-dandawala)
-[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugdandawala1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YugDandawala)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
@@ -790,7 +776,6 @@ Full-time Roles
 </tr>
 <tr>
 <td align="center">⚡ <b>FastAPI</b></td>
-<td align="center">🍃 <b>MongoDB</b></td>
 <td align="center">📊 <b>Data Science</b></td>
 <td align="center">🌐 <b>Full Stack</b></td>
 </tr>
@@ -810,19 +795,8 @@ Full-time Roles
 
 <br>
 
-### 📈 Profile Stats
-
-![](https://komarev.com/ghpvc/?username=YugDandawala&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-![](https://img.shields.io/github/followers/YugDandawala?label=Followers&style=for-the-badge&color=blue)
-![](https://img.shields.io/github/stars/YugDandawala?label=Total%20Stars&style=for-the-badge&color=yellow)
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
 
 **⭐️ From [YugDandawala](https://github.com/YugDandawala) | Building the future, one commit at a time 🚀**
 
