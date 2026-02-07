@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-dandawala)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YugDandawala)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugdandawala1@gmail.com)
+
 
 ![](https://komarev.com/ghpvc/?username=YugDandawala&color=blueviolet&style=for-the-badge)
 
@@ -148,11 +148,11 @@ Production Deployment
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-Intermediate-0f4c81?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
@@ -215,10 +215,8 @@ Jupyter
 <div align="center">
 
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-Advanced-121212?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-Intermediate-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-Advanced-1C3C3C?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Advanced-FFD21E?style=for-the-badge)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=for-the-badge)
 
 </div>
 
@@ -275,8 +273,7 @@ Dynamic Tools
 Pinecone  
 ChromaDB  
 FAISS  
-Weaviate  
-Qdrant  
+PGVector 
 
 </td>
 </tr>
@@ -287,10 +284,10 @@ Qdrant
 <div align="center">
 
 #### Frontend Technologies
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Backend Technologies
@@ -302,10 +299,8 @@ Qdrant
 ![ERPNext](https://img.shields.io/badge/ERPNext-Basic-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
 
 #### Database & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Basic-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -356,7 +351,6 @@ Report Building
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -369,7 +363,7 @@ Report Building
 
 ---
 
-## 🎯 2025 Development Roadmap
+## 🎯 2026 Development Roadmap
 
 <div align="center">
 
@@ -387,12 +381,12 @@ CNN & RNN Architectures
 Transformer Models  
 PyTorch Deep Dive  
 
-**Goal:** Build 3 DL Projects
+**Goal:** Build DL Projects
 
 </td>
 <td align="center" width="25%">
 
-### Q2 2025
+### Q2 2026
 **🤖 AI Agent Development**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80">
@@ -407,7 +401,7 @@ Tool Orchestration
 </td>
 <td align="center" width="25%">
 
-### Q3 2025
+### Q3 2026
 **🚀 MLOps & Deployment**
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
@@ -422,7 +416,7 @@ Cloud Deployment
 </td>
 <td align="center" width="25%">
 
-### Q4 2025
+### Q4 2026
 **🌐 Scale & Optimize**
 
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80">
@@ -465,26 +459,6 @@ Production Apps
 
 ---
 
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YugDandawala&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="90%"/>
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-**🎓 Education**  
-Continuous Learning  
-Multiple Certifications  
-Project-Based Growth  
-
-</td>
-<td align="center" width="25%">
-
 **💼 Professional**  
 Software Intern  
 Real-World Projects  
@@ -502,7 +476,9 @@ Open Source
 <td align="center" width="25%">
 
 **🌟 Skills**  
-AI/ML Expert  
+AI/ML
+Gen AI Systems
+Agentic AI Systems
 Full Stack Dev  
 Problem Solver  
 
