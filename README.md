@@ -16,24 +16,82 @@
 
 ## 🎯 About Me
 
-```javascript
-const yug = {
-    currentRole: "Trainee Software Engineer Intern @ Netizens Technologies",
-    education: "College Student | Lifelong Learner",
-    focus: ["Deep Learning", "Generative AI", "Agentic AI", "Full Stack Development"],
-    goals: "Building innovative AI-powered solutions that make a difference",
-    passions: ["Machine Learning", "AI Agents", "Problem Solving", "Continuous Learning"],
-    funFact: "I turn coffee into code and data into insights ☕️"
-};
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Professional Profile
+```json
+{
+  "role": "Trainee Software Engineer",
+  "company": "Netizens Technologies",
+  "status": "Intern",
+  "education": "College Student",
+  "mindset": "Lifelong Learner"
+}
 ```
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Academic Focus
+```json
+{
+  "primary": [
+    "Deep Learning",
+    "Generative AI",
+    "Agentic AI"
+  ],
+  "secondary": [
+    "Full Stack Dev",
+    "MLOps"
+  ]
+}
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Career Goals
+```json
+{
+  "short_term": [
+    "Build Production AI Apps",
+    "Master LLM Engineering",
+    "Contribute to Open Source"
+  ],
+  "long_term": "Innovate in AI/ML Space"
+}
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Interests & Passions
+```json
+{
+  "technical": [
+    "Machine Learning",
+    "AI Agents",
+    "System Design"
+  ],
+  "personal": [
+    "Problem Solving",
+    "Continuous Learning",
+    "Coffee ☕"
+  ]
+}
+```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### 🌱 Currently Learning
-**Deep Learning** • **Neural Networks** • **LLM Fine-tuning** • **Multi-Agent Systems**
-
-### 🎯 2025 Goals
-Building production-ready AI applications • Contributing to open-source • Mastering advanced ML architectures
+**🌟 Mission:** *Building innovative AI-powered solutions that make a real-world impact*
 
 </div>
 
@@ -133,28 +191,70 @@ Building production-ready AI applications • Contributing to open-source • Ma
 
 ## 🚀 What I'm Working On
 
-```python
-current_projects = {
-    "learning": [
-        "Advanced Deep Learning architectures",
-        "LLM fine-tuning and prompt engineering",
-        "Building production-grade AI agents",
-        "Scaling RAG systems"
-    ],
-    "building": [
-        "Multi-agent AI systems",
-        "Intelligent chatbots with memory",
-        "Full-stack applications with AI integration",
-        "Data science portfolio projects"
-    ],
-    "exploring": [
-        "Computer Vision applications",
-        "Natural Language Processing",
-        "MLOps and model deployment",
-        "Cloud-based AI solutions"
-    ]
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📚 Currently Learning
+```json
+{
+  "focus_areas": [
+    "Advanced Deep Learning",
+    "LLM Fine-tuning",
+    "Prompt Engineering",
+    "Production AI Agents",
+    "Scaling RAG Systems"
+  ],
+  "status": "🔥 Active"
 }
 ```
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Building
+```json
+{
+  "projects": [
+    "Multi-agent Systems",
+    "Memory-enabled Chatbots",
+    "AI-integrated Full Stack",
+    "Data Science Portfolio"
+  ],
+  "status": "⚡ In Progress"
+}
+```
+
+</td>
+<td width="33%" valign="top">
+
+### 🔍 Exploring
+```json
+{
+  "interests": [
+    "Computer Vision",
+    "NLP Applications",
+    "MLOps Pipelines",
+    "Cloud AI Solutions"
+  ],
+  "status": "🌱 Growing"
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 2025 Roadmap
+
+| Q1 | Q2 | Q3 | Q4 |
+|:---:|:---:|:---:|:---:|
+| 🧠 Master Deep Learning | 🤖 Build AI Agents | 🚀 Deploy ML Models | 🌐 Scale Production Apps |
+| Advanced Neural Networks | LangGraph + MCP | MLOps & DevOps | Cloud Architecture |
+
+</div>
 
 ---
 
