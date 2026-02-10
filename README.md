@@ -8,9 +8,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YugDandawala)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugdandawala1@gmail.com)
 
-
-![](https://komarev.com/ghpvc/?username=YugDandawala&color=blueviolet&style=for-the-badge)
-
 </div>
 
 ---
@@ -42,7 +39,7 @@
 <tr><td>🧠</td><td><b>Deep Learning</b></td><td>Neural Networks, CNNs, RNNs</td></tr>
 <tr><td>🤖</td><td><b>Generative AI</b></td><td>LLMs, RAG Systems, Fine-tuning</td></tr>
 <tr><td>⚡</td><td><b>Agentic AI</b></td><td>Multi-Agent Systems, MCP</td></tr>
-<tr><td>🌐</td><td><b>Full Stack</b></td><td>MERN, Django, FastAPI</td></tr>
+<tr><td>🌐</td><td><b>Full Stack</b></td><td>Django, FastAPI</td></tr>
 <tr><td>📊</td><td><b>Data Science</b></td><td>ML, EDA, Visualization</td></tr>
 </table>
 
