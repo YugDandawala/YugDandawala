@@ -288,12 +288,12 @@ PGVector
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Backend Technologies
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-Advanced-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-intermediate-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-intermediate-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-Intermediate-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Frappe](https://img.shields.io/badge/Frappe-Intermediate-0089FF?style=for-the-badge&logo=python&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-Basic-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-Intermediate-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
 
 #### Database & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-316192?style=for-the-badge&logo=postgresql&logoColor=white)
