@@ -266,8 +266,7 @@ Dynamic Tools
 <td width="20%" align="center">
 
 **🗄️ Vector DBs**
-
-Pinecone  
+ 
 ChromaDB  
 FAISS  
 PGVector 
