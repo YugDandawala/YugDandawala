@@ -614,9 +614,10 @@ Production ML
 **Future**  
 🌟 Innovating  
 
+Docker
+Kubernetes
 Cloud Deployement
-MLOps Expert  
-AI Research  
+MLOps 
 AI Architect  
 
 </td>
