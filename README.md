@@ -560,7 +560,6 @@ Problem Solver
 - 📝 **Adoption Workflow** with status tracking
 - 📱 **Responsive UI** for all devices
 
-**Status:** 🟢 Active Development
 [View on GitHub](https://github.com/YugDandawala/Adopt-Adore-Pet-Adoption-Portal)
 
 </td>
