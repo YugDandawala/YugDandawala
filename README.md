@@ -479,21 +479,23 @@ Problem Solver
 <tr>
 <td width="50%">
 
-### 🤖 AI Multi-Agent System
-**Advanced agent orchestration with LangGraph**
+### 🎮 Streamlit Gaming Analysis & Prediction Dashboard
+**Data-driven analytics for Esports and Casual Gaming, with AI engagement prediction**
 
-**Tech Stack:**  
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+**Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square&logo=python&logoColor=white)
 
 **Features:**
-- 🔹 Multi-agent collaboration
-- 🔹 Dynamic tool calling
-- 🔹 State management
-- 🔹 Real-time streaming
+- 📊 **30+ Interactive Visualizations** (Plotly)
+- 🤖 **AI Engagement Prediction** (XGBoost)
+- 🌐 **Unified Esports & Casual Gaming Data**
+- 🛠️ **Modular, Scalable Architecture**
 
-**Status:** 🟢 Active Development
+[View on GitHub](https://github.com/YugDandawala/Streamlit-Gaming-Analysis-Prediction-Dashboard)
 
 </td>
 <td width="50%">
