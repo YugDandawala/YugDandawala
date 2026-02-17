@@ -515,7 +515,8 @@ Problem Solver
 - 🤖 **AI-Powered Q&A** (Llama 3.1)
 - 🗄️ **RAG Pipeline** (LangChain + PGVector)
 - 🔒 **Strict Podcast Scope** (No off-topic answers)
-
+ 
+**Status:** 🟢 Active Development
 [View on GitHub](https://github.com/YugDandawala/AI-Podcast-Assistant)
 
 </td>
@@ -542,21 +543,25 @@ Problem Solver
 </td>
 <td width="50%">
 
-### 🌐 Full Stack AI Platform
-**Modern web app with AI integration**
+### 🐾 Adopt & Adore: Pet Adoption Portal
+**Full-stack web app for pet adoption, built with React, Node.js, Express, and MongoDB**
 
-**Tech Stack:**  
+**Tech Stack:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Features:**
-- 🔹 AI-powered features
-- 🔹 Real-time updates
-- 🔹 User authentication
-- 🔹 Responsive design
+- 🐶 **Browse & Filter Pets** by species, breed, age, size, and location
+- 🔒 **User Authentication** with JWT
+- ❤️ **Favorite Pets** and manage your list
+- 📝 **Adoption Workflow** with status tracking
+- 📱 **Responsive UI** for all devices
 
-**Status:** 🔵 Planning Phase
+**Status:** 🟢 Active Development
+[View on GitHub](https://github.com/YugDandawala/Adopt-Adore-Pet-Adoption-Portal)
 
 </td>
 </tr>
