@@ -524,21 +524,23 @@ Problem Solver
 <tr>
 <td width="50%">
 
-### 📊 ML Pipeline & Deployment
-**End-to-end ML workflow with AutoML**
+### 🌐 LangGraph: Advanced AI Workflows
+**Modular, stateful AI workflows using LangGraph for sequential, parallel, conditional, and human-in-the-loop processes.**
 
-**Tech Stack:**  
-![scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-0f4c81?style=flat-square)
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Features:**
-- 🔹 Automated training
-- 🔹 Hyperparameter tuning
-- 🔹 Model evaluation
-- 🔹 Interactive dashboard
+- 🧩 **State Graphs** for complex workflow logic
+- 🔄 **Sequential, Parallel, Conditional, Iterative, and HITL Workflows**
+- 💾 **Persistence** for long-running tasks
+- 🤖 **Full-Stack Chatbot** with FastAPI + Streamlit
+- 🔄 **SubGraphs** for reusable components
 
-**Status:** 🟡 Beta Testing
+[View on GitHub](https://github.com/YugDandawala/LangGraph)
 
 </td>
 <td width="50%">
