@@ -500,21 +500,23 @@ Problem Solver
 </td>
 <td width="50%">
 
-### 📚 Intelligent RAG Chatbot
-**Document Q&A with semantic search**
+### 🎙️ AI Podcast Assistant
+**Interact with YouTube podcasts using AI: extract transcripts, ask questions, and get context-aware answers.**
 
-**Tech Stack:**  
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 **Features:**
-- 🔹 Vector embeddings
-- 🔹 Contextual retrieval
-- 🔹 Source attribution
-- 🔹 Conversation memory
+- 🎧 **YouTube Transcript Extraction** (English/Hindi)
+- 🤖 **AI-Powered Q&A** (Llama 3.1)
+- 🗄️ **RAG Pipeline** (LangChain + PGVector)
+- 🔒 **Strict Podcast Scope** (No off-topic answers)
 
-**Status:** 🟢 Production Ready
+[View on GitHub](https://github.com/YugDandawala/AI-Podcast-Assistant)
 
 </td>
 </tr>
