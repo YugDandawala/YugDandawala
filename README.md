@@ -628,7 +628,8 @@ Docker
 Kubernetes
 Cloud Deployement
 MLOps 
-AI Architect  
+AI Architect
+Enterprise System
 
 </td>
 </tr>
@@ -647,13 +648,13 @@ AI Architect
 <table>
 <tr><td>⭐⭐⭐⭐⭐</td><td><b>Python Programming</b></td></tr>
 <tr><td>⭐⭐⭐⭐☆</td><td><b>Machine Learning</b></td></tr>
-<tr><td>⭐⭐⭐⭐⭐</td><td><b>Data Analysis</b></td></tr>
+<tr><td>⭐⭐⭐⭐☆</td><td><b>Data Analysis</b></td></tr>
 <tr><td>⭐⭐⭐⭐⭐</td><td><b>Web Development</b></td></tr>
 <tr><td>⭐⭐⭐⭐☆</td><td><b>Deep Learning</b></td></tr>
 <tr><td>⭐⭐⭐⭐☆</td><td><b>LangChain & RAG</b></td></tr>
 <tr><td>⭐⭐⭐⭐☆</td><td><b>React.js</b></td></tr>
 <tr><td>⭐⭐⭐⭐☆</td><td><b>FastAPI & Django</b></td></tr>
-<tr><td>⭐⭐⭐☆☆</td><td><b>LangGraph & Agents</b></td></tr>
+<tr><td>⭐⭐⭐⭐☆</td><td><b>LangGraph & Agents</b></td></tr>
 <tr><td>⭐⭐⭐☆☆</td><td><b>Frappe/ERPNext</b></td></tr>
 </table>
 
