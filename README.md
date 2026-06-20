@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yug%20Dandawala&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-### 🚀 Software Engineer Intern | AI/ML Engineer | Generative AI Specialist
+### AI/ML Engineer | Generative AI Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yug-dandawala)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YugDandawala)
@@ -20,10 +20,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 💼 Professional Journey
-**Current Role:** Trainee Software Engineer Intern  
+### 💼 Professional Journey 
 **Company:** Netizens Technologies  
-**Status:** 🔥 Actively Building & Learning
+**Status:** 🔥 Completed an internship of 6 month and learned about the AI and its working in depth.
 
 ### 🎓 Education & Growth
 **Level:** College Student  
